@@ -1,1 +1,1 @@
-<img src="ReadMe.png" alt="My Project Image" width="100%">
+<img src="Profile.png" alt="My Project Image" width="100%">
