@@ -1,61 +1,16 @@
-## Hi there 👋
-
-<!--
-**Sowmya06-art/Sowmya06-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- Animated Gradient Wave Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sowmya%20Reddy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Wave" />
+</div>
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sowmya+Reddy+👋;Turning+abstract+logic+into+intuitive+UX;Exploring+the+MERN+Stack;Always+learning,+always+growing" alt="Typing SVG" />
-
-<!-- Profile Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sowmya06-art&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Sowmya's Trophies" />
-</a>
-
-<br><br>
-
-### 💻 Tech Stack & Tools
-<!-- Beautiful Skill Icons Grid -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,java,mysql,bootstrap,git,github&perline=6" />
-  </a>
-</p>
-
-<br>
-
-### 📊 My GitHub Activity
-<!-- Live Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sowmya06-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya06-art&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmya06-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-### 🧠 The Mindset
-I believe the best software is built by people who never stop learning. By approaching both life and code with a beginner's mind, I ensure that I am always open to the next big lesson. Off-screen, you can find me immersed in books that inspire personal development and new ways of thinking.
-
-<div align="left">
+<!-- Clean, Minimalist Intro -->
+<div align="center">
+  <h3>Frontend Developer & MERN Stack Explorer</h3>
+  <p>
+    Turning abstract logic into intuitive, living user experiences. <br/>
+    Approaching code and life with a beginner's mind.
+  </p>
+  
   <a href="https://linkedin.com/in/sowmyareddy06">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -64,4 +19,47 @@ I believe the best software is built by people who never stop learning. By appro
   </a>
 </div>
 
+<br><br>
+
+<!-- Dual-Column Layout: Bio & Skills -->
+<table align="center" style="width: 100%; border: none; background: transparent;">
+  <tr>
+    <td width="55%" align="left" valign="top">
+      <h3>🌱 The Philosophy</h3>
+      <p>
+        I believe the best software is built by people who never stop learning. My evolution started with a strong foundation in <b>HTML, CSS, JavaScript, SQL, and Core Java</b>.
+      </p>
+      <p>
+        Currently, I am deeply focused on the <b>MERN stack</b>, captivated by how full-stack technologies come together to solve real-world problems.
+      </p>
+      <p>
+        Off-screen, you can find me immersed in books that inspire personal development. I value community and am always eager to connect with developers dedicated to lifelong growth.
+      </p>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <h3>🛠️ The Toolbox</h3>
+      <a href="https://skillicons.dev">
+        <!-- Icons arranged in a clean 4-per-line grid -->
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,java,mysql,bootstrap,git,github&perline=4" alt="Tech Stack Icons" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- Floating, Transparent Stats -->
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sowmya06-art&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya06-art&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="48%" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmya06-art&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" width="45%" alt="Top Languages" />
+</div>
+
+<!-- Animated Gradient Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
